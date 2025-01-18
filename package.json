@@ -1,7 +1,7 @@
 {
-    "name": "FIRE-A",
+    "name": "NOXY",
     "version": "2.1.0",
-    "description": "A FIRE NATION  BY OPAKSFIRE",
+    "description": "NOXY",
     "main": "index.js",
     "type": "module",
     "directories": {
