@@ -1,8 +1,8 @@
 {
-  "name": "FIRE MD",
+  "name": "NOXY",
   "description": " BRINGING FORTH A NEW REVOLUTION.",
   "keywords": [
-    "FIRE MD"
+    "NOXY"
   ],
   "repository": "https://github.com/Opaksfire/FIRE-MD/tree/main",
   "stack": "container",
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "2349013432338;opaksfire"
+      "value": "2349013432338;NOXY"
     },
     "BOTNAME": {
-      "description": "Give your BOT a name",
+      "description": "NOXY",
       "required": true,
-      "value": "FIRE MD"
+      "value": "NOXY"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -30,7 +30,7 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
